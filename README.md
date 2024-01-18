@@ -1,13 +1,13 @@
-🚘Responsive Car website
+# 🚘 Responsive Car website
+## [Watch it on youtube](https://youtu.be/bDngcOQ8Img)
+### 🚘 Responsive Car website
 
--Responsive Car website Using HTML CSS & JavaScript
+- Responsive Car website Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
--Contains animations when scrolling.
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
--Smooth scrolling in each section.
-
--Developed first with the Mobile First methodology, then for desktop.
-
-Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-![preview](https://github.com/kashvi666/Responsive-Car-Rental-Website/assets/142961362/5f0e896f-8b77-4103-9145-9ad3115f59c8)
+![preview img](/preview.png)
